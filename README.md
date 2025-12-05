@@ -1,4 +1,4 @@
-Week 7 – Pointers, Structs, Dynamic Memory, and Binary Search
+Week 6 – Pointers, Structs, Dynamic Memory, and Binary Search
 
 This program demonstrates the key concepts from Module 7:
 
